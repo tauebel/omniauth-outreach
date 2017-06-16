@@ -6,8 +6,8 @@ require 'omniauth-outreach/outreach/version'
 Gem::Specification.new do |gem|
   gem.name          = "omniauth-outreach"
   gem.version       = Omniauth::Outreach::VERSION
-  gem.authors       = ["Anders Fredriksson", "Richard Laroque", "Dan Kozlowski"]
-  gem.email         = ["dan.kozlowskioutreach.io"]
+  gem.authors       = ["Anders Fredriksson", "Outreach Engineering"]
+  gem.email         = ["platform@outreach.io"]
 
   gem.summary       = "An Outreach.io OAuth2 strategy for OmniAuth."
   gem.description   = "An Outreach.io OAuth2 strategy for OmniAuth."
